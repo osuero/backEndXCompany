@@ -1,0 +1,34 @@
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Data\bin\Debug\netcoreapp2.2\Api.Data.deps.json
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Data\bin\Debug\netcoreapp2.2\Api.Data.runtimeconfig.json
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Data\bin\Debug\netcoreapp2.2\Api.Data.runtimeconfig.dev.json
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Data\bin\Debug\netcoreapp2.2\Api.Data.dll
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Data\bin\Debug\netcoreapp2.2\Api.Data.pdb
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Data\obj\Debug\netcoreapp2.2\Api.Data.csprojAssemblyReference.cache
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Data\obj\Debug\netcoreapp2.2\Api.Data.AssemblyInfoInputs.cache
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Data\obj\Debug\netcoreapp2.2\Api.Data.AssemblyInfo.cs
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Data\obj\Debug\netcoreapp2.2\Api.Data.csproj.CoreCompileInputs.cache
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Data\obj\Debug\netcoreapp2.2\Api.Data.dll
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Data\obj\Debug\netcoreapp2.2\Api.Data.pdb
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Data\obj\Debug\netcoreapp2.2\Api.Data.genruntimeconfig.cache
+C:\TestEnterpriseX\Api.Data\bin\Debug\netcoreapp2.2\Api.Data.deps.json
+C:\TestEnterpriseX\Api.Data\bin\Debug\netcoreapp2.2\Api.Data.runtimeconfig.json
+C:\TestEnterpriseX\Api.Data\bin\Debug\netcoreapp2.2\Api.Data.runtimeconfig.dev.json
+C:\TestEnterpriseX\Api.Data\bin\Debug\netcoreapp2.2\Api.Data.dll
+C:\TestEnterpriseX\Api.Data\bin\Debug\netcoreapp2.2\Api.Data.pdb
+C:\TestEnterpriseX\Api.Data\obj\Debug\netcoreapp2.2\Api.Data.csprojAssemblyReference.cache
+C:\TestEnterpriseX\Api.Data\obj\Debug\netcoreapp2.2\Api.Data.AssemblyInfoInputs.cache
+C:\TestEnterpriseX\Api.Data\obj\Debug\netcoreapp2.2\Api.Data.AssemblyInfo.cs
+C:\TestEnterpriseX\Api.Data\obj\Debug\netcoreapp2.2\Api.Data.dll
+C:\TestEnterpriseX\Api.Data\obj\Debug\netcoreapp2.2\Api.Data.pdb
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.Data\bin\Debug\netcoreapp2.2\Api.Data.deps.json
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.Data\bin\Debug\netcoreapp2.2\Api.Data.runtimeconfig.json
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.Data\bin\Debug\netcoreapp2.2\Api.Data.runtimeconfig.dev.json
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.Data\bin\Debug\netcoreapp2.2\Api.Data.dll
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.Data\bin\Debug\netcoreapp2.2\Api.Data.pdb
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.Data\obj\Debug\netcoreapp2.2\Api.Data.csprojAssemblyReference.cache
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.Data\obj\Debug\netcoreapp2.2\Api.Data.AssemblyInfoInputs.cache
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.Data\obj\Debug\netcoreapp2.2\Api.Data.AssemblyInfo.cs
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.Data\obj\Debug\netcoreapp2.2\Api.Data.csproj.CoreCompileInputs.cache
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.Data\obj\Debug\netcoreapp2.2\Api.Data.dll
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.Data\obj\Debug\netcoreapp2.2\Api.Data.pdb
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.Data\obj\Debug\netcoreapp2.2\Api.Data.genruntimeconfig.cache

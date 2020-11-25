@@ -1,0 +1,3 @@
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Empresa x\obj\Debug\netcoreapp2.2\Api.Enterprise.AssemblyInfoInputs.cache
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Empresa x\obj\Debug\netcoreapp2.2\Api.Enterprise.AssemblyInfo.cs
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Empresa x\obj\Debug\netcoreapp2.2\Api.Enterprise.csproj.CoreCompileInputs.cache

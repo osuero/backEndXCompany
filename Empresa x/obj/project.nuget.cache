@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "2pvhGgLH/WE+iasujkacWOYoLe0fiPJ8jpeBx66Dgn+UxyisWsnhdfCjgNaX3gGv+9TLp8BVMEXhiY0KxLAE7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DesarrolloSOS\\source\\repos\\Empresa x\\Empresa x\\Api.Enterprise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DesarrolloSOS\\.nuget\\packages\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "C:\\Users\\DesarrolloSOS\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "C:\\Users\\DesarrolloSOS\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "C:\\Users\\DesarrolloSOS\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.2.0\\microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "C:\\Users\\DesarrolloSOS\\.nuget\\packages\\microsoft.netcore.platforms\\2.2.0\\microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\DesarrolloSOS\\.nuget\\packages\\microsoft.netcore.targets\\2.0.0\\microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "C:\\Users\\DesarrolloSOS\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

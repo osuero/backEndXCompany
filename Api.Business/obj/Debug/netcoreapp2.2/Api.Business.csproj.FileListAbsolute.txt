@@ -1,0 +1,35 @@
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Business\bin\Debug\netcoreapp2.2\Api.Business.deps.json
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Business\bin\Debug\netcoreapp2.2\Api.Business.dll
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Business\bin\Debug\netcoreapp2.2\Api.Business.pdb
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Business\obj\Debug\netcoreapp2.2\Api.Business.AssemblyInfoInputs.cache
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Business\obj\Debug\netcoreapp2.2\Api.Business.AssemblyInfo.cs
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Business\obj\Debug\netcoreapp2.2\Api.Business.csproj.CoreCompileInputs.cache
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Business\obj\Debug\netcoreapp2.2\Api.Business.dll
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Business\obj\Debug\netcoreapp2.2\Api.Business.pdb
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Business\bin\Debug\netcoreapp2.2\Api.Data.dll
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Business\bin\Debug\netcoreapp2.2\Api.Data.pdb
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Business\obj\Debug\netcoreapp2.2\Api.Business.csprojAssemblyReference.cache
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Business\obj\Debug\netcoreapp2.2\Api.Business.csproj.CopyComplete
+C:\TestEnterpriseX\Api.Business\bin\Debug\netcoreapp2.2\Api.Business.deps.json
+C:\TestEnterpriseX\Api.Business\bin\Debug\netcoreapp2.2\Api.Business.dll
+C:\TestEnterpriseX\Api.Business\bin\Debug\netcoreapp2.2\Api.Business.pdb
+C:\TestEnterpriseX\Api.Business\bin\Debug\netcoreapp2.2\Api.Data.dll
+C:\TestEnterpriseX\Api.Business\bin\Debug\netcoreapp2.2\Api.Data.pdb
+C:\TestEnterpriseX\Api.Business\obj\Debug\netcoreapp2.2\Api.Business.csprojAssemblyReference.cache
+C:\TestEnterpriseX\Api.Business\obj\Debug\netcoreapp2.2\Api.Business.AssemblyInfoInputs.cache
+C:\TestEnterpriseX\Api.Business\obj\Debug\netcoreapp2.2\Api.Business.AssemblyInfo.cs
+C:\TestEnterpriseX\Api.Business\obj\Debug\netcoreapp2.2\Api.Business.csproj.CopyComplete
+C:\TestEnterpriseX\Api.Business\obj\Debug\netcoreapp2.2\Api.Business.dll
+C:\TestEnterpriseX\Api.Business\obj\Debug\netcoreapp2.2\Api.Business.pdb
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.Business\bin\Debug\netcoreapp2.2\Api.Business.deps.json
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.Business\bin\Debug\netcoreapp2.2\Api.Business.dll
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.Business\bin\Debug\netcoreapp2.2\Api.Business.pdb
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.Business\bin\Debug\netcoreapp2.2\Api.Data.dll
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.Business\bin\Debug\netcoreapp2.2\Api.Data.pdb
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.Business\obj\Debug\netcoreapp2.2\Api.Business.csprojAssemblyReference.cache
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.Business\obj\Debug\netcoreapp2.2\Api.Business.AssemblyInfoInputs.cache
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.Business\obj\Debug\netcoreapp2.2\Api.Business.AssemblyInfo.cs
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.Business\obj\Debug\netcoreapp2.2\Api.Business.csproj.CoreCompileInputs.cache
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.Business\obj\Debug\netcoreapp2.2\Api.Business.csproj.CopyComplete
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.Business\obj\Debug\netcoreapp2.2\Api.Business.dll
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.Business\obj\Debug\netcoreapp2.2\Api.Business.pdb

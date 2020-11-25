@@ -1,0 +1,67 @@
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.XEnterprise\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.XEnterprise\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.XEnterprise\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.XEnterprise\bin\Debug\netcoreapp2.2\Api.XEnterprise.deps.json
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.XEnterprise\bin\Debug\netcoreapp2.2\Api.XEnterprise.runtimeconfig.json
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.XEnterprise\bin\Debug\netcoreapp2.2\Api.XEnterprise.runtimeconfig.dev.json
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.XEnterprise\bin\Debug\netcoreapp2.2\Api.XEnterprise.dll
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.XEnterprise\bin\Debug\netcoreapp2.2\Api.XEnterprise.pdb
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.XEnterprise\bin\Debug\netcoreapp2.2\Api.Data.dll
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.XEnterprise\bin\Debug\netcoreapp2.2\Api.Data.pdb
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.XEnterprise\obj\Debug\netcoreapp2.2\Api.XEnterprise.csprojAssemblyReference.cache
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.XEnterprise\obj\Debug\netcoreapp2.2\Api.XEnterprise.AssemblyInfoInputs.cache
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.XEnterprise\obj\Debug\netcoreapp2.2\Api.XEnterprise.AssemblyInfo.cs
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.XEnterprise\obj\Debug\netcoreapp2.2\Api.XEnterprise.RazorAssemblyInfo.cache
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.XEnterprise\obj\Debug\netcoreapp2.2\Api.XEnterprise.RazorAssemblyInfo.cs
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.XEnterprise\obj\Debug\netcoreapp2.2\Api.XEnterprise.RazorTargetAssemblyInfo.cache
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.XEnterprise\obj\Debug\netcoreapp2.2\Api.XEnterprise.csproj.CopyComplete
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.XEnterprise\obj\Debug\netcoreapp2.2\Api.XEnterprise.dll
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.XEnterprise\obj\Debug\netcoreapp2.2\Api.XEnterprise.pdb
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.XEnterprise\obj\Debug\netcoreapp2.2\Api.XEnterprise.genruntimeconfig.cache
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.XEnterprise\bin\Debug\netcoreapp2.2\Api.Business.dll
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.XEnterprise\bin\Debug\netcoreapp2.2\Api.Business.pdb
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.XEnterprise\obj\Debug\netcoreapp2.2\Api.XEnterprise.csproj.CoreCompileInputs.cache
+C:\TestEnterpriseX\Api.XEnterprise\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\TestEnterpriseX\Api.XEnterprise\bin\Debug\netcoreapp2.2\appsettings.json
+C:\TestEnterpriseX\Api.XEnterprise\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\TestEnterpriseX\Api.XEnterprise\bin\Debug\netcoreapp2.2\Api.XEnterprise.deps.json
+C:\TestEnterpriseX\Api.XEnterprise\bin\Debug\netcoreapp2.2\Api.XEnterprise.runtimeconfig.json
+C:\TestEnterpriseX\Api.XEnterprise\bin\Debug\netcoreapp2.2\Api.XEnterprise.runtimeconfig.dev.json
+C:\TestEnterpriseX\Api.XEnterprise\bin\Debug\netcoreapp2.2\Api.XEnterprise.dll
+C:\TestEnterpriseX\Api.XEnterprise\bin\Debug\netcoreapp2.2\Api.XEnterprise.pdb
+C:\TestEnterpriseX\Api.XEnterprise\bin\Debug\netcoreapp2.2\Api.Business.dll
+C:\TestEnterpriseX\Api.XEnterprise\bin\Debug\netcoreapp2.2\Api.Data.dll
+C:\TestEnterpriseX\Api.XEnterprise\bin\Debug\netcoreapp2.2\Api.Business.pdb
+C:\TestEnterpriseX\Api.XEnterprise\bin\Debug\netcoreapp2.2\Api.Data.pdb
+C:\TestEnterpriseX\Api.XEnterprise\obj\Debug\netcoreapp2.2\Api.XEnterprise.csprojAssemblyReference.cache
+C:\TestEnterpriseX\Api.XEnterprise\obj\Debug\netcoreapp2.2\Api.XEnterprise.RazorAssemblyInfo.cache
+C:\TestEnterpriseX\Api.XEnterprise\obj\Debug\netcoreapp2.2\Api.XEnterprise.RazorAssemblyInfo.cs
+C:\TestEnterpriseX\Api.XEnterprise\obj\Debug\netcoreapp2.2\Api.XEnterprise.AssemblyInfoInputs.cache
+C:\TestEnterpriseX\Api.XEnterprise\obj\Debug\netcoreapp2.2\Api.XEnterprise.AssemblyInfo.cs
+C:\TestEnterpriseX\Api.XEnterprise\obj\Debug\netcoreapp2.2\Api.XEnterprise.RazorTargetAssemblyInfo.cache
+C:\TestEnterpriseX\Api.XEnterprise\obj\Debug\netcoreapp2.2\Api.XEnterprise.csproj.CopyComplete
+C:\TestEnterpriseX\Api.XEnterprise\obj\Debug\netcoreapp2.2\Api.XEnterprise.dll
+C:\TestEnterpriseX\Api.XEnterprise\obj\Debug\netcoreapp2.2\Api.XEnterprise.pdb
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.XEnterprise\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.XEnterprise\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.XEnterprise\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.XEnterprise\bin\Debug\netcoreapp2.2\Api.XEnterprise.deps.json
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.XEnterprise\bin\Debug\netcoreapp2.2\Api.XEnterprise.runtimeconfig.json
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.XEnterprise\bin\Debug\netcoreapp2.2\Api.XEnterprise.runtimeconfig.dev.json
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.XEnterprise\bin\Debug\netcoreapp2.2\Api.XEnterprise.dll
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.XEnterprise\bin\Debug\netcoreapp2.2\Api.XEnterprise.pdb
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.XEnterprise\bin\Debug\netcoreapp2.2\Api.Business.dll
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.XEnterprise\bin\Debug\netcoreapp2.2\Api.Data.dll
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.XEnterprise\bin\Debug\netcoreapp2.2\Api.Business.pdb
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.XEnterprise\bin\Debug\netcoreapp2.2\Api.Data.pdb
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.XEnterprise\obj\Debug\netcoreapp2.2\Api.XEnterprise.csprojAssemblyReference.cache
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.XEnterprise\obj\Debug\netcoreapp2.2\Api.XEnterprise.AssemblyInfoInputs.cache
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.XEnterprise\obj\Debug\netcoreapp2.2\Api.XEnterprise.AssemblyInfo.cs
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.XEnterprise\obj\Debug\netcoreapp2.2\Api.XEnterprise.csproj.CoreCompileInputs.cache
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.XEnterprise\obj\Debug\netcoreapp2.2\Api.XEnterprise.RazorAssemblyInfo.cache
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.XEnterprise\obj\Debug\netcoreapp2.2\Api.XEnterprise.RazorAssemblyInfo.cs
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.XEnterprise\obj\Debug\netcoreapp2.2\Api.XEnterprise.RazorTargetAssemblyInfo.cache
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.XEnterprise\obj\Debug\netcoreapp2.2\Api.XEnterprise.csproj.CopyComplete
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.XEnterprise\obj\Debug\netcoreapp2.2\Api.XEnterprise.dll
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.XEnterprise\obj\Debug\netcoreapp2.2\Api.XEnterprise.pdb
+C:\Users\DesarrolloSOS\Downloads\TestEnterpriseX\TestEnterpriseX\Api.XEnterprise\obj\Debug\netcoreapp2.2\Api.XEnterprise.genruntimeconfig.cache
